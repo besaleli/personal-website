@@ -1,0 +1,27 @@
+site_name: Raz Besaleli
+site_url: https://besaleli.github.io
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: black
+    accent: deep orange
+  font:
+    text: B612
+  icon:
+    logo: material/circle-outline
+  features:
+    - navigation.instant
+
+repo_url: https://github.com/besaleli
+repo_name: besaleli
+
+nav:
+  - About Me: index.md
+  - What I've Been Up To: cv.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
