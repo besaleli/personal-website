@@ -13,6 +13,8 @@ theme:
     logo: material/circle-outline
   features:
     - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
 
 repo_url: https://github.com/besaleli
 repo_name: besaleli
@@ -25,3 +27,6 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.blocks.caption
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
