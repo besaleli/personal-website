@@ -5,7 +5,7 @@ hide:
 
 # About Me
 
-<img src="assets/headshot.png", width=300 align="right">
+<img src="assets/headshot.png", width=200 align="right">
 
 I am an independent technology consultant specialized in NLP/GenAI systems architecture for MSP & enterprise solutions clients. Previously, I was Head of AI at Seek AI, researching semantic parsing & information retrieval systems for enterprise Text-to-SQL products.
 
