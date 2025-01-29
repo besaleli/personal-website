@@ -23,4 +23,4 @@ Check out my [CV](cv.md) page if you'd like to learn more about my recent work :
 
 Outside of NLP, I enjoy cooking, travel, and people with caustic senses of humor. My humble brag is that I'm verified at Bassiani, and my favorite subway line is the Q. When I was still literate, my favorite authors were Evelyn Waugh, Mikhail Bulgakov, and Giuseppe di Lampedusa. 
 
-Feel free to contact me at raz [at] besaleli [dot] io if you have any potential collaborations or would just like to chat!
+I am accepting new engagements and would love to hear more about your AI/ML needs! Feel free to contact me at raz [at] besaleli [dot] io if you have any potential collaborations or would just like to chat!
