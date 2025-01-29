@@ -34,10 +34,10 @@ hide:
 ## Recent Patents & Publications
 
 ### Style Outweighs Substance: Failure Modes of LLM Judges in Alignment Benchmarking
-*Conference Paper* | Accepted at [ICLR 2025](https://arxiv.org/pdf/2409.15268) | Jan 2025
+*Conference Paper* | Coauthor, Accepted at [ICLR 2025](https://arxiv.org/pdf/2409.15268) | Jan 2025
 
 ### MisMo: More is More in Alignment
-*Workshop Paper* | Accepted at [SFLLM 2024 @ NeurIPS](https://neurips.cc/virtual/2024/105603) | Dec 2024
+*Workshop Paper* | Coauthor, Accepted at [SFLLM 2024 @ NeurIPS](https://neurips.cc/virtual/2024/105603) | Dec 2024
 
 ### NLP Methods and Systems for Querying Datasets
 *Method Patent* | Patent Nos. [19,099,502 & 12,099,503](https://patents.google.com/patent/US20240211475A1) | Sep 2024
