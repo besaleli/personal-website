@@ -12,7 +12,7 @@ I am an independent technology consultant specialized in NLP/GenAI systems archi
 
 Before I was unceremoniously dumped into the world of GenAI, I earned my MS in Computational Linguistics at Montclair State University in 2023, where I worked on research in lexical semantic change detection at the Montclair NLP Lab. In 2021, I graduated from the Great Books Program at St. John's College with a BA in Liberal Arts.
 
-Although I'm mostly corporate these days, I am still active in R&D and publishing! My research interests lie mainly in computational pragmatics, semantic parsing, and evaluation, and aim to answer the following questions:
+Although I'm mostly corporate these days, I am still active in research! My research interests lie mainly in computational pragmatics, semantic parsing, and evaluation, and aim to answer the following questions:
 
 - How do context and ambiguity impact the performance of semantic parsing systems?
 
