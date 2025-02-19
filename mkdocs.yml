@@ -21,7 +21,9 @@ repo_name: besaleli
 
 nav:
   - About Me: index.md
-  - What I've Been Up To: cv.md
+  - CV: cv.md
+  - Blog:
+    - blog/index.md
 
 markdown_extensions:
   - attr_list
