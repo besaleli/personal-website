@@ -58,7 +58,7 @@ hide:
 ### St John's College (MD)
 **BA History of Mathematics & Science, Philosophy** | May 2021
 
-* Senior Essay: [*Evolution and Calculus: An Exploration of the Genesis of Complex Analysis in Cauchy's 1825 Memorandum*](https://drive.google.com/file/d/1pC8T7x9hID06p7LlIEhOElNTAvhCvwzM/view?usp=sharing)
+* Senior Essay: [*Evolution and Calculus: An Exploration of the Genesis of Complex Analysis in Cauchy's 1825 Memorandum*](https://drive.google.com/file/d/1XHjfkWbIhlaJOp99vzyA0_k70OUb_Pwz/view?usp=sharing)
 * Minors in classics, & comparative literature
 * Relevant Coursework: Preceptorials in Chaos Theory and Computation; tutorials in Non-Euclidean Geometry and Number Theory
 
