@@ -127,6 +127,8 @@ Everyone who's made it this far in the post knows that humans are really good at
 
 I think this is a good time to talk about the pyramids. You know how pyramids had a bunch of inscriptions saying stuff like "DO NOT ENTER" and had a bunch of booby traps? And then we went in there anyway and it turns out there was a bunch of deadly archaic bacteria in the mummies or something? And then there there was a worldwide trend where everyone was making jokes about drinking the mystery sarcophagus juice? How many people were actually joking? As a species, we are a danger to ourselves.
 
+And it's so funny because we'll make up these crazy stories out of nothing. There's this site Southeastern Turkey called Göbekli Tepe; it's the ruins of some millennia-old structure that was used for something. A lot of Netflix shows seem to think that "something" was fertility rituals or some other profound religious tradition. This seems plausible, there could have been some religious cult, but it also seems equally equally that it was just an event space used for parties. Kind of like how in 10,000 years, archaeologists will unearth the ruins of Berghain, Basement, and Bassiani, and make all sorts of educated guesses about the kinds of spiritual practices the very devout attendants did there.
+
 I don't even know if LLMs would get the chance to hurt us before we just do it ourselves. How many people have been laid off because some high level executive was told their jobs could be automated by tech that can barely tell you how many 'r's are in the word 'strawberry'? In fact, why bother speculating 10,000 years in the future when we're already convincing ourselves that LLMs are capable of rational thought who should be in any way believable?
 
 More subtly, I think posterity should also be considered here. People in the future will use our cultural artifacts as empirical evidence to draw conclusions about themselves. LLMs may be an amalgamation of our written culture but they don't define us – and if people in the future get the wrong idea about us, they could get the wrong idea about themselves. This could manifest in so many different ways:
@@ -143,23 +145,13 @@ All of these are dangerous and could happen if distant humans unearthed LLMs. Bu
 
 Our understanding of ourselves and the world around us has been anything but linear. There's no guarantee that future civilization is going to be as technologically advanced as us. Cataclysmic events hit humanity all the time, but we don't even need an asteroid or ice age to regress ourselves into a dark period. LLMs may not survive – but if they did, wouldn't you appreciate a warning? As if we'd even listen to it.
 
-### Sidenote: Göbekli Tepe
-
-Göbekli Tepe is an ancient site located in Southeastern Turkey. It's the ruins of some millennia-old structure that was used for something. A lot of Netflix shows seem to think that "something" was fertility rituals or some other profound religious tradition.
-
-This seems plausible, but it also seems equally plausible that it was just an event space used for parties. Kind of like how in 10,000 years, archaeologists will unearth the ruins of Berghain, Basement, and Bassiani, and make all sorts of educated guesses about the kinds of spiritual practices the very devout attendants did there.
-
 ## Conclusion
 
-Maybe the authors of the Sandia report were overthinking it. A lot of pushback it received had to do with whether we should even be making signs – maybe we should just bury the nuclear waste in the most forgettable location possible and hope for the best. Maybe I'm overthinking it too. Maybe it's Maybelline.
+Throughout the proposal, appeal to rational thought is consistently used as a last resort. The plans rely on images of people screaming. Mysterious giant spikes that render a piece of land inhospitable. Environments engineered to evoke fear. Is that how our society works? At a certain point, intellect becomes useless and we rely on more primitive signals for our own safety? Where's the line?
+
+Maybe the authors of the Sandia report were overthinking it. Maybe there's no good way to shoot a message into the future and hope it's understood on the other side. A lot of pushback the project received had to do with whether we should even be making signs – maybe we should just bury the nuclear waste in the most forgettable location possible and hope for the best. Maybe I'm overthinking it too. Maybe LLMs won't be that difficult to understand without trusty Medium tutorials. Maybe it's Maybelline.
 
 The comparison between nuclear waste and LLMs is deeply flawed. One is physically deadly, the other's danger relies on human stupidity. But both are snapshots of our civilization's capabilities and values, frozen in time for future discovery. I'd like to think we'd try to make that discovery useful.
-
-And despite how outlandish and unlikely the scenarios I enumerated are, they are all entirely theoretically possible. If you count religion as a human invention, all of them have happened before at some point in our history.
-
-That said, I don't want to discount the precautions we've taken. LLMs are now trained to spit out "As an I model, I can't..." whenever it's likely they can't/shouldn't do something. Maybe one day we'll get it to work consistently.
-
-I don't feel like putting together any sort of meaningful or substantial conclusion, so I'll conclude with one more interesting observation from the Sandia report. It's worth noting that throughout the proposal, appeal to rational thought is consistently used as a last resort. The plans rely on images of people screaming. Mysterious giant spikes that render a piece of land inhospitable. Environments engineered to evoke fear. Is that how our society works? At a certain point, intellect becomes useless and we rely on more primitive signals for our own safety? Where's the line?
 
 
 [1] ["Investigation of Radiation Safety Pictogram Recognition in Daily Life"](https://pmc.ncbi.nlm.nih.gov/articles/PMC7926466/)
