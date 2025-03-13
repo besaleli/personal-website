@@ -110,7 +110,7 @@ _Note: There are a ton of great video essays on Nuclear Semiotics if you'd like 
 
 I've drawn a lot of bizarre comparisons in this post. Just for the record, yes, I realize how it sounded when I specifically compared LLMs to enriched plutonium. So before going further, I want to highlight the similarities, differences, and requisite assumptions that are changed.
 
-While it would be really funny to try to convince you otherwise, no, standing within a certain proximity to a LLM will not kill you. There is nothing about PyTorch weights that are lethal, aside from maybe our computers giving us brain cancer or whatever.
+While it would be really funny to try to convince you otherwise, no, standing within a certain proximity to a LLM will not kill you. There is nothing about PyTorch weights that are lethal.
 
 But LLMs are still dangerous. They can be used to produce disinformation at an industrial scale. It wouldn't be impossible to destabilize an economy or government with one. Worst of all, it's alarmingly easy to convince a human that a LLM is anything more than what it is – a next word predictor. We may mythologize our own intellect, but it doesn't change the fact that we are easily suggestible animals. You could tell a human most ridiculous garbage and they would believe it. ChatGPT told you to jump off a bridge? You're one terrible, horrible, no good, very bad day away from seriously considering it. You ask an LLM to justify its reasoning? Any reason it gives you beyond "this was the most likely sequence of tokens" is practically a lie. And the best part is that it wouldn't even be lying to you – autoregressive text generation algorithms simply aren't bound by the same conversational conventions that we are (if you're curious about what I mean, look up Grice's Cooperative Principle).
 
@@ -120,10 +120,11 @@ The AI bubble is about to burst. In 2025, LLMs are largely seen by the public as
 
 Safety is the most obvious issue here. What if we unearthed LLMs from like 10,000 years ago or something, somehow got it working, and it came with the amount of documentation that any given software engineer today would bother to write. Could you imagine? We'd be so screwed.
 
-Everyone who's made it this far in the post knows that humans are really good at these 3 things:
+Everyone knows that humans are really good at these 3 things:
+
 1) Not following instructions, especially ones saying specifically not to do something. They get like 10,000 better at it if the instructions are being given by a scientist or qualified field expert;
 2) Being delusional;
-3) Making shit up.
+3) Making stories up.
 
 I think this is a good time to talk about the pyramids. You know how pyramids had a bunch of inscriptions saying stuff like "DO NOT ENTER" and had a bunch of booby traps? And then we went in there anyway and it turns out there was a bunch of deadly archaic bacteria in the mummies or something? And then there there was a worldwide trend where everyone was making jokes about drinking the mystery sarcophagus juice? How many people were actually joking? As a species, we are a danger to ourselves.
 
