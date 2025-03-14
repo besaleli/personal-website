@@ -157,7 +157,7 @@ The comparison between nuclear waste and LLMs is deeply flawed. One is physicall
 
 [1] ["Investigation of Radiation Safety Pictogram Recognition in Daily Life"](https://pmc.ncbi.nlm.nih.gov/articles/PMC7926466/)
 
-[2] [The Sandia Report](http://large.stanford.edu/courses/2011/ph241/dunn2/docs/SAND90-3063.pdf)
+[2] [The Sandia Report](https://digital.library.unt.edu/ark:/67531/metadc1279277/)
 
 [3] ["Language Modeling Is Compression"](https://arxiv.org/abs/2309.10668)
 
