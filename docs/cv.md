@@ -31,7 +31,7 @@ hide:
 * Oversaw communications and reports to investors
 * Developed and maintained in-house and cloud computing operations
 
-## Recent Patents & Publications
+## Patents & Publications
 
 ### Style Outweighs Substance: Failure Modes of LLM Judges in Alignment Benchmarking
 *Conference Paper* | Coauthor, Accepted at [ICLR 2025](https://arxiv.org/pdf/2409.15268) | Jan 2025
