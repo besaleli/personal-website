@@ -5,16 +5,19 @@ hide:
 
 ## Experience
 
-### Independent Technology Consultant
-**ML/AI Architect** | Sept 2024 – Current
+### Mozilla.ai
+**ML Systems Engineer** | Aug 2025 – Present
 
-* Led technical consulting engagement for enterprise solutions clients, architecting and prototyping solutions for natural language processing and information retrieval systems
+### Independent Technology Consultant
+**ML/AI Architect** | Sept 2024 – Present
+
+* Architected enterprise-level natural language processing and information retrieval systems for Fortune 50 technology companies, focusing on workflow automation solutions that enhance infrastructure reliability and operational efficiency
 * Provided comprehensive technical advisory services spanning MLOps infrastructure design, development roadmap planning, and best practices for scaling ML operations
 
-### Seek AI
-**Head of AI** | Apr 2022 – Aug 2024
+### Seek AI (Acquired by IBM)
+**Head of AI (Lead ML Engineer)** | Apr 2022 – Aug 2024
 
-* Architected and patented a state-of-the-art ML system for semantic parsing and information retrieval, achieving 91.2% execution accuracy (current SOTA) on the [Spider Text-to-SQL Challenge](https://yale-lily.github.io/spider) while building and mentoring a high-performing team of 8 ML researchers & engineers
+* Built a state-of-the-art ML system for semantic parsing and information retrieval, achieving 91.2% execution accuracy (current SOTA) on the Spider Text-to-SQL Benchmark while building and mentoring a high-performing team of 8 ML researchers & engineers
 * Developed comprehensive MLOps infrastructure including automated data pipelines and monitoring systems, while driving strategic technical decisions across engineering, product, and design teams
 * Led technical strategy, research partnerships, and presentations that secured $10M in seed funding while establishing engineering best practices and fostering a culture of innovation
 
@@ -33,7 +36,7 @@ hide:
 
 ## Patents & Publications
 
-### Style Outweighs Substance: Failure Modes of LLM Judges in Alignment Benchmarking
+### Failure Modes of LLM Judges in Alignment Benchmarking
 *Conference Paper* | Coauthor, Accepted at [ICLR 2025](https://arxiv.org/pdf/2409.15268) | Jan 2025
 
 ### MisMo: More is More in Alignment
@@ -62,6 +65,11 @@ hide:
 * Minors in classics, & comparative literature
 * Relevant Coursework: Preceptorials in Chaos Theory and Computation; tutorials in Non-Euclidean Geometry and Number Theory
 
+## Certifications
+
+### INCOSE Associate Systems Engineering Professional (ASEP)
+May 2025
+
 ## Invited Talks
 
 ### [Generative AI: A Phenomenal Science](https://youtu.be/UAqu14GgPcc?si=HRuvcd8zZ6gHD5xu)
@@ -75,3 +83,33 @@ Arthur AI | Panel | Feb 2024
 
 ### [ChatGPT & the Future of AI](https://www.montclair.edu/faculty-excellence/2023/01/27/chatgpt-and-the-future-of-ai-perspectives-from-computer-science-computational-linguistics-industry-and-writing-studies/)
 Montclair State University | Panel | Feb 2023
+
+## Projects & Volunteering
+
+### Ptolemy
+**Core Maintainer** | Oct 2024 – Current
+
+* Lead architect of Ptolemy, an open-source ML observability platform built with Rust, PyO3, and gRPC, implementing systems engineering methodologies to provide comprehensive monitoring and troubleshooting capabilities
+* Engineered high-performance data ingestion pipeline and flexible connector ecosystem enabling direct SQL querying of ML monitoring data without semantic layer limitations
+* Designed extensible plugin architecture and API framework allowing seamless integration with existing ML infrastructure while maintaining enterprise-grade security controls
+
+### Community Security Service (CSS)
+**Team Lead, ROAM** | Jan 2024 – Current
+
+* Lead tactical security deployments protecting high-risk Jewish institutions and public events in coordination with law enforcement and EMS
+* Trained in counterterrorism protocols, emergency response, and combat readiness as part of a rapid-response unit
+* Led real-world rapid-response ops where failure = physical harm. Same systems mindset, higher stakes
+
+## Skills
+
+**Core Technologies:** Python, Rust, SQL, GraphQL
+
+**ML & AI Infrastructure:** PyTorch, JAX/FLAX, Deepspeed, NVIDIA Triton, MLFlow, W&B, Vector Stores (PGVector, Weaviate, Qdrant)
+
+**Large Language Models:** LangChain, Huggingface Transformers, LLM Platforms (OpenAI, Anthropic, Groq, Cohere)
+
+**Data Infrastructure:** PostgreSQL, Snowflake, BigQuery, DuckDB, Clickhouse, Airflow, dbt, Kafka
+
+**Backend & APIs:** FastAPI, Django, Axum, Tokio, PyO3
+
+**Cloud & DevOps:** Docker, Kubernetes, GCP, Azure, OCI
