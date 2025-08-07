@@ -8,10 +8,12 @@ hide:
 
 <img src="assets/headshot.png", width=200 align="right">
 
-I am an independent technology consultant specialized in NLP/GenAI systems architecture for MSP & enterprise solutions clients. Previously, I was Head of AI at Seek AI, researching semantic parsing & information retrieval systems for enterprise Text-to-SQL products. 
+I’m an ML Systems Engineer at Mozilla.ai, where I build ways to make AI systems more resilient, scalable, and trustworthy. My background spans NLP research, GenAI systems architecture, and ML observability, with experience leading AI teams, consulting for enterprise clients, and contributing to open-source infrastructure.
 
-In 2023, I earned my MS in Computational Linguistics at Montclair State University, where I worked on research in lexical semantic change detection at the Montclair NLP Lab. In 2021, I graduated from the Great Books Program at St. John's College with a BA in Liberal Arts.
+Previously, I was Head of AI at Seek AI (recently acquired by IBM), where I led research on semantic parsing and built production-grade text-to-SQL systems. I earned my MS in Computational Linguistics at Montclair State University, where I worked on lexical semantic change detection, and my BA in Liberal Arts from St. John’s College’s Great Books Program.
 
-In my free time, I'm an active OSS contributor and am core maintainer, along with some close friends, of an open-source ML observability platform, [Ptolemy](https://github.com/PtolemyLovesYou/ptolemy). Outside of NLP, I enjoy cooking, travel, and people with caustic senses of humor. I am obnoxiously proud of being verified at Bassiani, and my favorite subway line is the Q. I adore reading and my favorite authors are Evelyn Waugh, Mikhail Bulgakov, and Giuseppe di Lampedusa.
+I stay connected to research through occasional writing, collaboration, and workshops. My current interests include intent-agnostic, game-theoretic approaches to modeling strategic ambiguity in language; measuring emergent failure propagation in agentic systems; and systems-level approaches to alignment and interpretability.
 
-I am accepting new engagements and would love to hear more about your AI/ML needs! Feel free to contact me at raz [at] besaleli [dot] io if you have any potential collaborations or would just like to chat!
+Outside of work, I’m a core maintainer of [Ptolemy](https://github.com/PtolemyLovesYou/ptolemy), an open-source ML observability platform grounded in systems engineering principles. I also enjoy cooking, travel, and people with caustic senses of humor. I am obnoxiously proud of being verified at Bassiani, and my favorite subway line is the Q. My favorite authors are Evelyn Waugh, Mikhail Bulgakov, and Giuseppe di Lampedusa.
+
+Feel free to contact me at raz [at] besaleli [dot] io if you have any potential collaboration ideas or would just like to chat!
