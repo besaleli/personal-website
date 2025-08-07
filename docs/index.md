@@ -8,7 +8,7 @@ hide:
 
 <img src="assets/headshot.jpg", width=200 align="right">
 
-I’m an ML Systems Engineer at Mozilla.ai, where I build ways to make AI systems more resilient, scalable, and trustworthy. My background spans NLP research, GenAI systems architecture, and ML observability, with experience leading AI teams, consulting for enterprise clients, and contributing to open-source infrastructure.
+I’m a ML Systems Engineer at Mozilla.ai, where I build ways to make AI/ML systems more resilient, scalable, and trustworthy. My background spans NLP research, GenAI systems architecture, and ML observability, with experience leading AI teams, consulting for enterprise clients, and contributing to open-source infrastructure.
 
 Previously, I was Head of AI at Seek AI (recently acquired by IBM), where I led research on semantic parsing and built production-grade text-to-SQL systems. I earned my MS in Computational Linguistics at Montclair State University, where I worked on lexical semantic change detection, and my BA in Liberal Arts from St. John’s College’s Great Books Program.
 
