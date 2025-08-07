@@ -6,7 +6,7 @@ hide:
 
 # About Me
 
-<img src="assets/headshot.png", width=200 align="right">
+<img src="assets/headshot.jpg", width=200 align="right">
 
 I’m an ML Systems Engineer at Mozilla.ai, where I build ways to make AI systems more resilient, scalable, and trustworthy. My background spans NLP research, GenAI systems architecture, and ML observability, with experience leading AI teams, consulting for enterprise clients, and contributing to open-source infrastructure.
 
