@@ -90,7 +90,7 @@ Montclair State University | Panel | Feb 2023
 **Team Lead, ROAM** | Jan 2024 – Current
 
 * Lead tactical security deployments protecting high-risk Jewish institutions and public events in coordination with law enforcement and EMS. Same systems mindset, higher stakes
-* Trained in counterterrorism protocols, emergency response, and combat readiness as part of a rapid-response unit
+* Trained in high-risk scenarios for threat recognition, OSINT, emergency response, and defensive tactics as part of a rapid-response unit
 
 ## Skills
 
