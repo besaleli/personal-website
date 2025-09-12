@@ -89,7 +89,7 @@ Montclair State University | Panel | Feb 2023
 ### Community Security Service (CSS)
 **Team Lead, ROAM** | Jan 2024 – Current
 
-* Lead tactical security deployments protecting high-risk Jewish institutions and public events in coordination with law enforcement and EMS.
+* Lead tactical security deployments protecting high-risk Jewish institutions and public events in coordination with law enforcement and EMS
 * Trained in high-risk scenarios for threat recognition, OSINT, emergency response, and defensive tactics as part of a rapid-response unit
 
 ## Skills
