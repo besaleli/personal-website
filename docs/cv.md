@@ -27,13 +27,6 @@ hide:
 * Conducted original research in lexical semantic shift detection in Modern Hebrew
 * Assisted professors teaching undergraduate courses in cognitive science and phonology
 
-### Aphelion Orbitals
-**Co-founder** | Oct 2016 – Nov 2018
-
-* Devised successful budget for $500k seed funding round
-* Oversaw communications and reports to investors
-* Developed and maintained in-house and cloud computing operations
-
 ## Patents & Publications
 
 ### Failure Modes of LLM Judges in Alignment Benchmarking
@@ -96,9 +89,8 @@ Montclair State University | Panel | Feb 2023
 ### Community Security Service (CSS)
 **Team Lead, ROAM** | Jan 2024 – Current
 
-* Lead tactical security deployments protecting high-risk Jewish institutions and public events in coordination with law enforcement and EMS
+* Lead tactical security deployments protecting high-risk Jewish institutions and public events in coordination with law enforcement and EMS. Same systems mindset, higher stakes
 * Trained in counterterrorism protocols, emergency response, and combat readiness as part of a rapid-response unit
-* Led real-world rapid-response ops where failure = physical harm. Same systems mindset, higher stakes
 
 ## Skills
 
