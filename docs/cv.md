@@ -43,20 +43,16 @@ hide:
 ### Johns Hopkins University
 **MS Systems Engineering (part-time)** | I/P
 
-* Relevant Coursework: Introduction to Systems Engineering, Management of Systems Projects
-
 ### Montclair State University
 **MS Computational Linguistics** | May 2023
 
 * Capstone Project: [*Lexical Bias in Generating SQL Descriptions with Few-shot Learning*](https://drive.google.com/file/d/1nfg4FjzVica0roB1jGd4MlBhBP_mP_ru/view?usp=sharing)
-* Relevant Coursework: Computational Linguistics, Data Mining, Quantitative Linguistics, Special Topics in NLP, Machine Learning
 
 ### St John's College (MD)
 **BA History of Mathematics & Science, Philosophy** | May 2021
 
 * Senior Essay: [*Evolution and Calculus: An Exploration of the Genesis of Complex Analysis in Cauchy's 1825 Memorandum*](https://drive.google.com/file/d/1XHjfkWbIhlaJOp99vzyA0_k70OUb_Pwz/view?usp=sharing)
 * Minors in classics, & comparative literature
-* Relevant Coursework: Preceptorials in Chaos Theory and Computation; tutorials in Non-Euclidean Geometry and Number Theory
 
 ## Certifications
 
