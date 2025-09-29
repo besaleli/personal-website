@@ -24,9 +24,6 @@ hide:
 ### Montclair NLP Lab
 **Graduate Assistant** | Sep 2021 – May 2023
 
-* Conducted original research in lexical semantic shift detection in Modern Hebrew
-* Assisted professors teaching undergraduate courses in cognitive science and phonology
-
 ## Patents & Publications
 
 ### Failure Modes of LLM Judges in Alignment Benchmarking
