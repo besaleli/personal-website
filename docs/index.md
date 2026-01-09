@@ -33,7 +33,7 @@ Outside Mozilla.ai:
 
 - **Head of AI, Seek AI (acquired by IBM)** — Semantic parsing, text-to-SQL, research → production pipelines.
 - **MS, Computational Linguistics — Montclair NLP Lab** — Research in lexical semantic change detections for morphologically rich, low-resource languages
-- **BA, St. John's College** — Great Books, 4 years of sustained ego death
+- **BA, St. John's College** — Philosophy, history of science and mathematics
 
 ## Writing & collaboration
 
