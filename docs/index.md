@@ -22,7 +22,7 @@ I maintain and contribute to several open-source projects at Mozilla.ai.
 Some are direct outputs of the systems-engineering experiment above; others are adjacent infrastructure that became necessary once we started treating failure as a first-class concern.
 
 - [**Encoderfile**](https://github.com/mozilla-ai/encoderfile) — A single-file distribution format and inference engine for transformer-based encoders, designed to be offline, self-contained, and compliance-forward.
-- [**any-llm**](https://github.com/mozilla-ai/any-llm) — A universal interface for LLM providers.
+- [**Choice-First Stack**](https://www.mozilla.ai/open-tools/choice-first-stack) — Universal interfaces for LLMs, agents, MCP servers, guardrails, and more.
 - [**cargo-goose**](https://github.com/mozilla-ai/cargo-goose) — a SemVer bumping tool for Rust projects that treats pre-releases and real-world versioning workflows as first-class, instead of edge cases.
 
 Outside Mozilla.ai:
