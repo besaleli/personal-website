@@ -38,6 +38,7 @@ Outside Mozilla.ai:
 ## Writing & collaboration
 
 I occasionally write, teach, and run workshops—usually about:
+
 - why alignment is a systems problem,
 - how failures propagate in agentic setups,
 - and why benchmarks lie (politely).
