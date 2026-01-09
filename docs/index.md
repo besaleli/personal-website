@@ -12,7 +12,7 @@ I’m a ML Systems Engineer at Mozilla.ai, working in an experimental role focus
 
 My job operates under a simple premise:
 
-**The only component of an AI system more unreliable than the AI itself is the humans interacting with it, and someone needs to manage that risk.**
+**AI systems are sociotechnical systems, where the only components more unreliable than the AI itself are the humans interacting with it. Someone needs to manage that risk.**
 
 I build infrastructure for making ML systems more resilient under these conditions and work on open-source projects at Mozilla.ai that make model behavior easier to ship, reason about, and constrain.
 
