@@ -8,7 +8,7 @@ hide:
 
 <img src="assets/headshot.jpg", width=200 align="right">
 
-I’m an ML Systems Engineer at Mozilla.ai, working in an experimental role focused on system-level reliability in AI.
+I’m a ML Systems Engineer at Mozilla.ai, working in an experimental role focused on system-level reliability in AI.
 
 My job operates under a simple premise:
 
@@ -23,11 +23,11 @@ Some are direct outputs of the systems-engineering experiment above; others are 
 
 - [**Encoderfile**](https://github.com/mozilla-ai/encoderfile) — A single-file distribution format and inference engine for transformer-based encoders, designed to be offline, self-contained, and compliance-forward.
 - [**Choice-First Stack**](https://www.mozilla.ai/open-tools/choice-first-stack) — Universal interfaces for LLMs, agents, MCP servers, guardrails, and more.
-- [**cargo-goose**](https://github.com/mozilla-ai/cargo-goose) — a SemVer bumping tool for Rust projects that treats pre-releases and real-world versioning workflows as first-class, instead of edge cases.
+- [**cargo-goose**](https://github.com/mozilla-ai/cargo-goose) — A SemVer bumping tool for Rust projects that treats pre-releases and real-world versioning workflows as first-class, instead of edge cases.
 
 Outside Mozilla.ai:
 
-- [**Ptolemy**](https://github.com/PtolemyLovesYou/ptolemy) — an open-source ML observability platform grounded in systems engineering principles
+- [**Ptolemy**](https://github.com/PtolemyLovesYou/ptolemy) — An open-source ML observability platform grounded in systems engineering principles
 
 ## Previously (pre-Mozilla.ai)
 
