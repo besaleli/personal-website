@@ -8,12 +8,44 @@ hide:
 
 <img src="assets/headshot.jpg", width=200 align="right">
 
-I’m an ML Systems Engineer at Mozilla.ai, where I build ways to make AI/ML systems more resilient, scalable, and trustworthy. My background spans NLP research, GenAI systems architecture, and ML observability, with experience leading AI teams, consulting for enterprise clients, and contributing to open-source infrastructure.
+I’m an ML Systems Engineer at Mozilla.ai, working in an experimental role focused on system-level reliability in AI.
 
-Previously, I was Head of AI at Seek AI (acquired by IBM), where I led research on semantic parsing and built production-grade text-to-SQL systems. I earned my MS in Computational Linguistics at Montclair State University, where I worked on lexical semantic change detection, and my BA in Liberal Arts from St. John’s College’s Great Books Program.
+My job operates under a simple premise:
 
-I stay connected to research through occasional writing, collaboration, and workshops. My current interests include intent-agnostic, game-theoretic approaches to modeling strategic ambiguity in language; measuring emergent failure propagation in agentic systems; and systems-level approaches to alignment and interpretability.
+**The only component of an AI system more unreliable than the AI itself is the humans interacting with it, and someone needs to manage that risk.**
 
-Outside of work, I’m a core maintainer of [Ptolemy](https://github.com/PtolemyLovesYou/ptolemy), an open-source ML observability platform grounded in systems engineering principles. I also enjoy cooking, travel, and people with caustic senses of humor. I am obnoxiously proud of being verified at Bassiani, and my favorite subway line is the Q. My favorite authors are Evelyn Waugh, Mikhail Bulgakov, and Giuseppe di Lampedusa.
+I build infrastructure for making ML systems more resilient under these conditions and work on open-source projects at Mozilla.ai that make model behavior easier to ship, reason about, and constrain.
+
+## Open source
+
+I maintain and contribute to several open-source projects at Mozilla.ai.
+Some are direct outputs of the systems-engineering experiment above; others are adjacent infrastructure that became necessary once we started treating failure as a first-class concern.
+
+- [**Encoderfile**](https://github.com/mozilla-ai/encoderfile) — A single-file distribution format and inference engine for transformer-based encoders, designed to be offline, self-contained, and compliance-forward.
+- [**any-llm**](https://github.com/mozilla-ai/any-llm) — A universal interface for LLM providers.
+- [**cargo-goose**](https://github.com/mozilla-ai/cargo-goose) — a SemVer bumping tool for Rust projects that treats pre-releases and real-world versioning workflows as first-class, instead of edge cases.
+
+Outside Mozilla.ai:
+
+- [**Ptolemy**](https://github.com/PtolemyLovesYou/ptolemy) — an open-source ML observability platform grounded in systems engineering principles
+
+## Previously (pre-Mozilla.ai)
+
+- **Head of AI, Seek AI (acquired by IBM)** — Semantic parsing, text-to-SQL, research → production pipelines.
+- **MS, Computational Linguistics — Montclair NLP Lab** — Research in lexical semantic change detections for morphologically rich, low-resource languages
+- **BA, St. John's College** — Great Books, 4 years of sustained ego death
+
+## Writing & collaboration
+
+I occasionally write, teach, and run workshops—usually about:
+- why alignment is a systems problem,
+- how failures propagate in agentic setups,
+- and why benchmarks lie (politely).
+
+## Things I Do Offline
+
+I enjoy cooking, travel, and people with caustic senses of humor. I am obnoxiously proud of being verified at Bassiani, and my favorite subway line is the Q. My favorite authors are Evelyn Waugh, Mikhail Bulgakov, and Giuseppe di Lampedusa.
+
+## Contact
 
 Contact me at raz [at] besaleli [dot] io if you are working on something weird, beautiful, or both.
