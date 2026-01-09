@@ -8,7 +8,7 @@ hide:
 
 <img src="assets/headshot.jpg", width=300 align="right">
 
-I’m a ML Systems Engineer at Mozilla.ai, working in an experimental role focused on system-level reliability in AI.
+I’m an ML Systems Engineer at Mozilla.ai, working in an experimental role focused on system-level reliability in AI.
 
 My job operates under a simple premise:
 
@@ -21,10 +21,11 @@ If you're curious to learn more about how systems engineers fit on an ML team, [
 ## Open source
 
 I maintain and contribute to several open-source projects at Mozilla.ai.
+
 Some are direct outputs of the systems-engineering experiment above; others are adjacent infrastructure that became necessary once we started treating failure as a first-class concern.
 
 - [**Encoderfile**](https://github.com/mozilla-ai/encoderfile) — A single-file distribution format and inference engine for transformer-based encoders, designed to be offline, self-contained, and compliance-forward.
-- [**Choice-First Stack**](https://www.mozilla.ai/open-tools/choice-first-stack) — Universal interfaces for LLMs, agents, MCP servers, guardrails, and more.
+- [**Choice-First Stack**](https://www.mozilla.ai/open-tools/choice-first-stack) — Universal, composable interfaces for LLMs, agents, MCP servers, guardrails, and more.
 - [**cargo-goose**](https://github.com/mozilla-ai/cargo-goose) — A SemVer bumping tool for Rust projects that treats pre-releases and real-world versioning workflows as first-class, instead of edge cases.
 
 Outside Mozilla.ai:
