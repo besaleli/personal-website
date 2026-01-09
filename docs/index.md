@@ -6,7 +6,7 @@ hide:
 
 # About Me
 
-<img src="assets/headshot.jpg", width=200 align="right">
+<img src="assets/headshot.jpg", width=300 align="right">
 
 I’m a ML Systems Engineer at Mozilla.ai, working in an experimental role focused on system-level reliability in AI.
 
