@@ -16,6 +16,8 @@ My job operates under a simple premise:
 
 I build infrastructure for making ML systems more resilient under these conditions and work on open-source projects at Mozilla.ai that make model behavior easier to ship, reason about, and constrain.
 
+If you're curious to learn more about how systems engineers fit on an ML team, [these slides](assets/when-debugging-llms-becomes-delusion.pdf) from a recent workshop summarize what we've learned so far.
+
 ## Open source
 
 I maintain and contribute to several open-source projects at Mozilla.ai.
