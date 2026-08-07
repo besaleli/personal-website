@@ -43,13 +43,8 @@ hide:
 ### Montclair State University
 **MS Computational Linguistics** | May 2023
 
-* Capstone Project: [*Lexical Bias in Generating SQL Descriptions with Few-shot Learning*](https://drive.google.com/file/d/1nfg4FjzVica0roB1jGd4MlBhBP_mP_ru/view?usp=sharing)
-
 ### St John's College (MD)
-**BA History of Mathematics & Science, Philosophy** | May 2021
-
-* Senior Essay: [*Evolution and Calculus: An Exploration of the Genesis of Complex Analysis in Cauchy's 1825 Memorandum*](https://drive.google.com/file/d/1XHjfkWbIhlaJOp99vzyA0_k70OUb_Pwz/view?usp=sharing)
-* Minors in classics, & comparative literature
+**BA Liberal Arts** | May 2021
 
 ## Certifications
 
@@ -78,12 +73,6 @@ Montclair State University | Panel | Feb 2023
 * Lead architect of Ptolemy, an open-source ML observability platform built with Rust, PyO3, and gRPC, implementing systems engineering methodologies to provide comprehensive monitoring and troubleshooting capabilities
 * Engineered high-performance data ingestion pipeline and flexible connector ecosystem enabling direct SQL querying of ML monitoring data without semantic layer limitations
 * Designed extensible plugin architecture and API framework allowing seamless integration with existing ML infrastructure while maintaining enterprise-grade security controls
-
-### Community Security Service (CSS)
-**Team Lead, ROAM** | Jan 2024 – Current
-
-* Lead tactical security deployments protecting high-risk Jewish institutions and public events in coordination with law enforcement and EMS
-* Trained in threat recognition, OSINT, emergency response, and defensive tactics as part of a rapid-response unit
 
 ## Skills
 
